@@ -11,5 +11,5 @@ You can also click on any country and a flag pops up.
 
 ### Created with React
 
-You can see the final app here <a href="https://covid-19-tracker-591e5.web.app/" target="_blank">Covid-Tacker</a>
+You can see the final app here <a href="https://covid-19-tracker-591e5.web.app/" target="_blank">Covid-Tracker</a> - Use back arrow to get back to this page.
 
